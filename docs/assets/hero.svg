@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="672" viewBox="0 0 1280 672" role="img" aria-labelledby="title desc">
+  <title id="title">Vibe Research — good research, fresh context</title>
+  <desc id="desc">An ivory editorial illustration connects a compact research state to numbered experiments, versioned methodology, evidence, and human review. A new session begins from the latest reliable state.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#21382F" opacity=".08"/></pattern>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="170%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#183D32" flood-opacity=".07"/></filter>
+  </defs>
+  <rect width="1280" height="672" rx="22" fill="#F6F4EC"/>
+  <rect x="608" y="0" width="672" height="672" fill="url(#grid)"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <g transform="translate(64 53)">
+      <rect width="34" height="34" rx="9" fill="#193F35"/>
+      <path d="M8 10 17 25 26 10M12 10 17 18 22 10" fill="none" stroke="#F6F4EC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="47" y="25" fill="#193F35" font-size="26" font-weight="750" letter-spacing="-.8">vibe research</text>
+    </g>
+    <rect x="64" y="145" width="321" height="31" rx="15.5" fill="#E8EDE3"/>
+    <circle cx="81" cy="161" r="4" fill="#44725F"/>
+    <text x="94" y="165" fill="#34594A" font-size="12" font-weight="700" letter-spacing="1.25">A RESEARCH WORKSPACE THAT LASTS</text>
+    <text x="60" y="251" fill="#193F35" font-size="68" font-weight="750" letter-spacing="-3.6">Good research.</text>
+    <text x="60" y="329" fill="#193F35" font-size="68" font-weight="750" letter-spacing="-3.6">Fresh context.</text>
+    <text x="64" y="385" fill="#536158" font-size="21">Let your ideas evolve.</text>
+    <text x="64" y="417" fill="#536158" font-size="21">Keep the evidence, decisions, and next step.</text>
+    <g transform="translate(64 466)">
+      <rect width="152" height="36" rx="18" fill="#FFFFFF" stroke="#DADFD3"/>
+      <text x="76" y="23" text-anchor="middle" fill="#34594A" font-size="13" font-weight="600">Plain Markdown</text>
+      <rect x="164" width="130" height="36" rx="18" fill="#FFFFFF" stroke="#DADFD3"/>
+      <text x="229" y="23" text-anchor="middle" fill="#34594A" font-size="13" font-weight="600">Human + agent</text>
+      <rect x="306" width="126" height="36" rx="18" fill="#FFFFFF" stroke="#DADFD3"/>
+      <text x="369" y="23" text-anchor="middle" fill="#34594A" font-size="13" font-weight="600">Local by default</text>
+    </g>
+    <path d="M64 559H543" stroke="#DADFD3"/>
+    <text x="64" y="589" fill="#647065" font-size="13" letter-spacing=".3">01  Ask carefully</text>
+    <text x="232" y="589" fill="#647065" font-size="13" letter-spacing=".3">02  Keep the trail</text>
+    <text x="407" y="589" fill="#647065" font-size="13" letter-spacing=".3">03  Begin fresh</text>
+    <g fill="none" stroke="#A7B5A5" stroke-width="2">
+      <path d="M850 164V188H949V220"/>
+      <path d="M777 334V362H842V391"/>
+      <path d="M1062 335V362H984V391"/>
+      <path d="M895 471V516"/>
+    </g>
+    <g transform="translate(714 62)" filter="url(#shadow)">
+      <rect width="375" height="103" rx="13" fill="#193F35"/>
+      <circle cx="28" cy="29" r="4" fill="#AAD4B3"/>
+      <text x="41" y="34" fill="#CADACD" font-size="12" font-weight="650" letter-spacing="1.2">START HERE · STATE.md</text>
+      <text x="23" y="65" fill="#FFFFFF" font-size="20" font-weight="600">Question. Evidence. Next step.</text>
+      <text x="23" y="85" fill="#B7CCC0" font-size="12">A short entry point for the next session</text>
+    </g>
+    <g transform="translate(667 211)" filter="url(#shadow)">
+      <rect width="239" height="127" rx="12" fill="#FFFFFF" stroke="#D7DFD3"/>
+      <rect x="17" y="17" width="60" height="24" rx="6" fill="#EAF0E8"/>
+      <text x="47" y="33" text-anchor="middle" fill="#34594A" font-size="11" font-weight="750">EXP 001</text>
+      <text x="17" y="69" fill="#193F35" font-size="22" font-weight="650">Try BCE</text>
+      <text x="17" y="95" fill="#687268" font-size="13">Baseline · method m-001</text>
+      <circle cx="211" cy="29" r="4" fill="#729A7C"/>
+    </g>
+    <g transform="translate(931 211)" filter="url(#shadow)">
+      <rect width="282" height="127" rx="12" fill="#FFF9F0" stroke="#E5D5BF"/>
+      <rect x="17" y="17" width="86" height="24" rx="6" fill="#FBE7D3"/>
+      <text x="60" y="33" text-anchor="middle" fill="#A0522A" font-size="11" font-weight="750">EXP 001.001</text>
+      <text x="17" y="69" fill="#193F35" font-size="22" font-weight="650">Compare with CE</text>
+      <text x="17" y="95" fill="#687268" font-size="13">Related variant · same protocol</text>
+      <circle cx="254" cy="29" r="4" fill="#C87C4A"/>
+    </g>
+    <g transform="translate(745 390)" filter="url(#shadow)">
+      <rect width="361" height="84" rx="12" fill="#FFFFFF" stroke="#D7DFD3"/>
+      <rect x="19" y="21" width="42" height="42" rx="10" fill="#EAF0E8"/>
+      <path d="M31 49V38M40 49V33M49 49V42" stroke="#44725F" stroke-width="3" stroke-linecap="round"/>
+      <text x="77" y="35" fill="#193F35" font-size="16" font-weight="650">Evidence before conclusions</text>
+      <text x="77" y="59" fill="#687268" font-size="13">Artifacts · uncertainty · reproducibility</text>
+    </g>
+    <g transform="translate(800 514)" filter="url(#shadow)">
+      <rect width="348" height="91" rx="12" fill="#EFE1CE"/>
+      <path d="M22 26H44V43H32L27 48V43H22Z" fill="none" stroke="#93603E" stroke-width="1.6" stroke-linejoin="round"/>
+      <text x="57" y="34" fill="#704C33" font-size="12" font-weight="700" letter-spacing=".9">THE RESEARCHER HAS A SAY</text>
+      <text x="22" y="66" fill="#614E3D" font-size="17">“Does this hold on another split?”</text>
+    </g>
+    <text x="1142" y="648" fill="#889080" font-size="10" letter-spacing="1.5">KEEP THINKING.</text>
+  </g>
+</svg>

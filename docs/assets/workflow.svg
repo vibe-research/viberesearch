@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="416" viewBox="0 0 1280 416" role="img" aria-labelledby="title desc">
+  <title id="title">A fresh research session, with a durable trail</title>
+  <desc id="desc">Four stages: orient with STATE, project, current methodology, and LATEST handoff; retrieve relevant experiment and evidence records; research with human review; update only what changed and leave a next step. The next session returns to the compact orientation files.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1 8 5 1 9" fill="none" stroke="#6E8978" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <rect width="1280" height="416" rx="18" fill="#F6F4EC"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="43" y="46" fill="#193F35" font-size="18" font-weight="650">Small entry point. Complete research trail.</text>
+    <text x="43" y="73" fill="#687268" font-size="14">Each session gets the current picture and follows links to the detail it needs.</text>
+    <g transform="translate(43 113)">
+      <rect width="267" height="206" rx="12" fill="#193F35"/>
+      <text x="21" y="30" fill="#AAD4B3" font-size="11" font-weight="700" letter-spacing="1.5">01 / ORIENT</text>
+      <text x="21" y="64" fill="#FFFFFF" font-size="21" font-weight="650">Read the current state</text>
+      <text x="21" y="98" fill="#D8E3D8" font-size="14">STATE.md</text>
+      <text x="21" y="121" fill="#D8E3D8" font-size="14">docs/project.md</text>
+      <text x="21" y="144" fill="#D8E3D8" font-size="14">methodology/current.md</text>
+      <text x="21" y="167" fill="#D8E3D8" font-size="14">handoffs/LATEST.md</text>
+      <text x="21" y="190" fill="#AAD4B3" font-size="11">1,400-word default orientation budget</text>
+    </g>
+    <path d="M320 216H341" fill="none" stroke="#6E8978" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(352 113)">
+      <rect width="267" height="206" rx="12" fill="#FFFFFF" stroke="#D7DFD3"/>
+      <text x="21" y="30" fill="#527461" font-size="11" font-weight="700" letter-spacing="1.5">02 / RETRIEVE</text>
+      <text x="21" y="64" fill="#193F35" font-size="21" font-weight="650">Follow relevant links</text>
+      <text x="21" y="100" fill="#687268" font-size="14">Experiment records</text>
+      <text x="21" y="126" fill="#687268" font-size="14">Pinned methodology revisions</text>
+      <text x="21" y="152" fill="#687268" font-size="14">Artifacts, code, and data</text>
+      <text x="21" y="186" fill="#527461" font-size="11">Read more when the task needs it</text>
+    </g>
+    <path d="M629 216H650" fill="none" stroke="#6E8978" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(661 113)">
+      <rect width="267" height="206" rx="12" fill="#FFFFFF" stroke="#D7DFD3"/>
+      <text x="21" y="30" fill="#527461" font-size="11" font-weight="700" letter-spacing="1.5">03 / RESEARCH</text>
+      <text x="21" y="64" fill="#193F35" font-size="21" font-weight="650">Think, test, review</text>
+      <text x="21" y="100" fill="#687268" font-size="14">Frame a testable question</text>
+      <text x="21" y="126" fill="#687268" font-size="14">Record evidence and uncertainty</text>
+      <text x="21" y="152" fill="#687268" font-size="14">Discuss ideas and user feedback</text>
+      <text x="21" y="186" fill="#527461" font-size="11">Separate hypotheses from findings</text>
+    </g>
+    <path d="M938 216H959" fill="none" stroke="#6E8978" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(970 113)">
+      <rect width="267" height="206" rx="12" fill="#EFE1CE"/>
+      <text x="21" y="30" fill="#93603E" font-size="11" font-weight="700" letter-spacing="1.5">04 / LEAVE A TRAIL</text>
+      <text x="21" y="64" fill="#193F35" font-size="21" font-weight="650">Update what changed</text>
+      <text x="21" y="100" fill="#6B5B4B" font-size="14">Save decisions in their home</text>
+      <text x="21" y="126" fill="#6B5B4B" font-size="14">Link claims to supporting records</text>
+      <text x="21" y="152" fill="#6B5B4B" font-size="14">Leave a concrete next action</text>
+      <text x="21" y="186" fill="#93603E" font-size="11">Small updates after substantive turns</text>
+    </g>
+    <path d="M1103 332V361H176V332" fill="none" stroke="#6E8978" stroke-width="1.5" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+    <rect x="470" y="347" width="340" height="28" rx="14" fill="#F6F4EC"/>
+    <text x="640" y="366" fill="#527461" text-anchor="middle" font-size="12" font-weight="600">FRESH SESSION · SAME CONTINUING RESEARCH</text>
+  </g>
+</svg>
